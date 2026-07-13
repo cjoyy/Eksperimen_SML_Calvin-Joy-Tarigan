@@ -1,0 +1,2 @@
+creditcard_raw/creditcard.csv filter=lfs diff=lfs merge=lfs -text
+preprocessing/creditcard_preprocessing/*.csv filter=lfs diff=lfs merge=lfs -text
